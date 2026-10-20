@@ -1,0 +1,8 @@
+# 敏感信息，禁止提交
+cookie.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
